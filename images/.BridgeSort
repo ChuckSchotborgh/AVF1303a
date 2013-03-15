@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<dirinfo>
+<files>
+<item key='-top-bg.png20120102025226' />
+<item key='android-icon.png20130313131250' />
+<item key='android.png20130313131250' />
+<item key='apple.png20130313154000' />
+<item key='brown.png20120714100412' />
+<item key='browsers.png20130313181127' />
+<item key='ButtonLayoutLandscape.png20101103212756' />
+<item key='dropbox-icon.png20130313131336' />
+<item key='emo.png20130313134934' />
+<item key='external.png20120102025213' />
+<item key='facebook-icon.png20130313131022' />
+<item key='github-icon.png20130313131124' />
+<item key='google-icon.png20130313130939' />
+<item key='horse.jpg20100810001352' />
+<item key='html5.png20130313182702' />
+<item key='hula.png20130313132628' />
+<item key='iOS-icon.png20130313131114' />
+<item key='ios.png20130313154046' />
+<item key='JPEG20130313195511' />
+<item key='js-icon.png20130313130056' />
+<item key='linked-in-icon.png20130313131215' />
+<item key='Livin-It-Revised.jpg20100812220950' />
+<item key='logo.png20120111030039' />
+<item key='mobile-icon.png20130313131315' />
+<item key='mobile.png20130313131315' />
+<item key='play.png20130313154118' />
+<item key='raphael-js-icon.png20130313131304' />
+<item key='sample-img.png20120110223825' />
+<item key='sketches-grouped.pdf20130313195852' />
+<item key='sketches01.jpg20100808094938' />
+<item key='skype-icon.png20130313131059' />
+<item key='tweet-icon.png20130313131139' />
+<item key='twitter-t-icon.png20130313131149' />
+<item key='win.png20130313154026' />
+<item key='zoom.png20120111204530' />
+<item key='sketches07.jpg20100808094920' />
+<item key='sketches06.jpg20100808094926' />
+<item key='sketches05.jpg20100808094928' />
+<item key='sketches04.jpg20100808094934' />
+<item key='sketches03.jpg20100808094930' />
+<item key='sketches02.jpg20100808094930' />
+</files>
+<stack version='1' expanded='false' framerate='2.0' framerateCS6='2.0' >
+<files>
+	<item key='ButtonLayoutLandscape.png20101103212756' />
+	<item key='ButtonLayoutLandscape.psd20101103195442' />
+	<item key='ButtonLayoutPortrait copy.png20101103212740' />
+	<item key='ButtonLayoutPortrait.png20101028202708' />
+	<item key='ButtonLayoutPortrait.psd20101028070418' />
+	<item key='JCastBroScreenLogoRed.jpg20110215085424' />
+	<item key='JCastLogoCurrentUseFinal.png20110215084101' />
+</files>
+</stack>
+</dirinfo>
